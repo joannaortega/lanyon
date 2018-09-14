@@ -9,7 +9,7 @@ plugins: [jekyll-paginate]
 title:               Joanna's Thoughts
 tagline:             "Help!"
 description:         "This is my first attempt at a blog and website. Please don't judge me."
-url:                 https://joannaortega.github.io
+url:                 https://luridsnapdragon.github.io
 baseurl:             ''
 paginate:            5
 
