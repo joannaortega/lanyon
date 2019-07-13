@@ -7,7 +7,7 @@ permalink:           pretty
 plugins: [jekyll-paginate]
 # Setup
 title:               Love
-tagline:             "Insert Foreigner's 'I Wanna Know What Love is'"
+tagline:             "Insert Foreigner's 'I Want To Know What Love is'"
 description:         "My journey to describe and discover what love is."
 url:                 https://luridsnapdragon.github.io
 baseurl:             ''
