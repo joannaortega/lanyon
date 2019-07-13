@@ -6,9 +6,9 @@ markdown: kramdown
 permalink:           pretty
 plugins: [jekyll-paginate]
 # Setup
-title:               Joanna's Thoughts
-tagline:             "Help!"
-description:         "This is my first attempt at a blog and website. Please don't judge me."
+title:               Love
+tagline:             "Insert Foreigner's 'I Wanna Know What Love is'"
+description:         "My journey to describe and discover what love is."
 url:                 https://luridsnapdragon.github.io
 baseurl:             ''
 paginate:            5
