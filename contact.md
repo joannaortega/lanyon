@@ -2,4 +2,7 @@
 layout: page
 title: Contact Me
 ---
-Get in touch, y'all!
+Follow me on
+Twitter @luridsnapdragon 
+Instagram @luridsnapdragon
+TikTok @luridsnapdragon
